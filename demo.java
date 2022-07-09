@@ -5,4 +5,5 @@ public class demo {
 
         system.out.printin("welcome"+ name);
     }
+    public squ ver main ( string )
 }
