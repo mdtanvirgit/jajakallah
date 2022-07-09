@@ -4,7 +4,7 @@ public class demo {
     public static void gretting (string name ){
 
         system.out.printin("welcome"+ name);
-   how are you today i am fine 
-   ami tomay balo bashi 
+   how are you i am fine 
+   
     }
 }
