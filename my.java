@@ -1,4 +1,4 @@
-public class Hello {
+public class my {
 
     public static void main (string [] arges ) {
     
@@ -9,5 +9,5 @@ public class Hello {
     system.out.printin("welcome" + name);
    }
  
-    
-    }
+  Public static my main ( string[])  
+    arges}
