@@ -4,6 +4,6 @@ public class demo {
     public static void gretting (string name ){
 
         system.out.printin("welcome"+ name);
+   how are you today i am fine 
     }
-    public squ ver main ( string )
 }
